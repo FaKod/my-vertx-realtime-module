@@ -1,0 +1,16 @@
+{
+
+    //Main verticle
+    "main": "scala:eu.fakod.streamprocessing.verticles.MainVerticle",
+
+    "description": "Example",
+    "licenses": ["The Apache Software License Version 2.0"],
+    "author": "FaKod",
+
+    // Optional fields
+    "developers": ["FaKod"],
+    "keywords": ["Kafka", "Stream Processing", "Scala", "Vertx"],
+    "homepage": "http://blog.fakod.eu/2014/07/25/sliding-window-and-adaptive-counting/",
+
+    "auto-redeploy": true
+}
