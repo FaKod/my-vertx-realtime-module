@@ -27,6 +27,6 @@ I am using in this project:
 * **DataVerticle:** Processes received messages and calculates messages for Frontend
 
 # Start this
-vertx uninstall com.holidaycheck~my-vertx-realtime-module~1.0-SNAPSHOT
+vertx uninstall eu.fakod~my-vertx-realtime-module~1.0-SNAPSHOT
 
-vertx runmod com.holidaycheck~my-vertx-realtime-module~1.0-SNAPSHOT -conf config.json
+vertx runmod eu.fakod~my-vertx-realtime-module~1.0-SNAPSHOT -conf config.json
